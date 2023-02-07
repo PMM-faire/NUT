@@ -1,0 +1,101 @@
+{
+  "indicatorGroup": [
+    {
+      "code": "G1",
+      "name": "Prise en charge",
+      "titre": "CRENAM ET CRENAS"
+    },
+       {
+      "code": "G2",
+      "name": "Supplémentation",
+      "titre": "Couverture en Vit A chez les enfants 6-59mois "
+    },
+       {
+      "code": "G3",
+      "name": "Logistique",
+      "titre": "Taux de Disponibilite en intrant "
+    }
+  ],
+  "indicators": [
+    {
+      "achieved": "100",
+      "dhisID": "BZFDMu4BrOP",
+      "dhisName": "CSB NUT Taux de guérison CRENAS",
+      "formula": " ",
+      "groupCode": "G1",
+      "name": "Taux de guérison CRENAS",
+      "notInTrack": "75",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "15",
+      "dhisID": "dDBZZ3JFSvT",
+      "dhisName": "CSB NUT Taux d’abandon CRENAS",
+      "formula": "",
+      "groupCode": "G1",
+      "name": "Taux d’abandon CRENAS",
+      "notInTrack": "15",
+      "target": "0",
+      "type": "indicator"
+    },
+    {
+      "achieved": "100",
+      "dhisID": "hI9Z8gmyXkp",
+      "dhisName": "CSB NUT Taux de couverture en supplémentation en Vit A chez les enfants 6-59mois ",
+      "formula": "",
+      "groupCode": "G2",
+      "name": "Supplémentation en Vit A 6-59mois ",
+      "notInTrack": "85",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "100",
+      "dhisID": "BT65wHgqPXb",
+      "dhisName": "CSB Intrant Gratuit Nut Taux de Disponibilite Vitamine A",
+      "formula": "",
+      "groupCode": "G3",
+      "name": "Taux de Disponibilite Vit A",
+      "notInTrack": "85",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "KjKhDNLbu30",
+      "dhisName": "CSB Intrant Gratuit Nut Taux de Disponibilite Albendazole 400mg",
+      "formula": "",
+      "groupCode": "G3",
+      "name": "Taux de Disponibilite Albendazole 400mg",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "Mw5NmZblr3B",
+      "dhisName": "Taux de disponibilité en CSB Intrant Gratuit Nut Taux de Disponibilite Plumpynut",
+      "formula": "",
+      "groupCode": "G3",
+      "name": "Taux de Disponibilite Plumpynut",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    }
+  ],
+  "orgUnitLevel": [
+    {
+      "chw": 3,
+      "district": 3,
+      "facility": 3,
+      "level1": 1,
+      "level2": 2,
+      "level3": 3,
+      "level4": 3,
+      "level5": 3,
+      "level6": 3,
+      "region": 3
+    }
+  ]
+}
